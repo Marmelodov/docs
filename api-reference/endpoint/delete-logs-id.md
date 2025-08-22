@@ -1,3 +1,8 @@
+---
+title: "Delete a log"
+openapi: "DELETE /logs"
+---
+
 # API Reference: Delete a log
 
 Deletes a `log` object by its unique ID. Users can only delete `log` objects they own.
