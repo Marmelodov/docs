@@ -57,6 +57,20 @@
             ]
           },
           {
+            "group": "Resources",
+            "pages": [
+              "api-reference/prompt",
+              "api-reference/log"
+            ]
+          }
+          {
+            "group": "Auth",
+            "pages": [
+              "post-auth-signup",
+              "post-auth-login"
+            ]
+          }
+          {
             "group": "Endpoint examples",
             "pages": [
               "api-reference/endpoint/get",
